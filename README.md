@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" />
 </p>
 
-<h3 align="center">☁️ Cloud, DevOps & MLOps</h3>
+<h3 align="center">☁️ Cloud</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
